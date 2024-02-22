@@ -11,7 +11,7 @@ The algorithm generates a visual interface that prompts you to answer various qu
 
 **example of use :**
 
-![]([https://github.com/gbrugere/Learning-Tetris-Using-the-Noisy-Cross-Entropy-Method/blob/main/Tetris.gif](https://github.com/gbrugere/Clustering/blob/main/Enregistrement%202024-02-22%20164744.gif))
+![]([https://github.com/gbrugere/Clustering/example.gif))
 
 ## Notes
 
