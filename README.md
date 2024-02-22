@@ -11,7 +11,7 @@ The algorithm generates a visual interface that prompts you to answer various qu
 
 **example of use :**
 
-![]([https://github.com/gbrugere/Clustering/example.gif))
+![]([https://github.com/gbrugere/Clustering/example.gif)
 
 ## Notes
 
