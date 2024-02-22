@@ -10,7 +10,6 @@ ENSAE had imposed the guideline that external databases could not be used. There
 The algorithm generates a visual interface that prompts you to answer various questions. At the end of the questionnaire, the algorithm will find several people with whom you could potentially "match".
 
 **example of use :**
-![](https://github.com/gbrugere/Learning-Tetris-Using-the-Noisy-Cross-Entropy-Method/blob/main/Tetris.gif)
 ![](https://github.com/gbrugere/Clustering/blob/main/example.gif)
 
 ## Notes
