@@ -9,6 +9,10 @@ ENSAE had imposed the guideline that external databases could not be used. There
 ## Usage
 The algorithm generates a visual interface that prompts you to answer various questions. At the end of the questionnaire, the algorithm will find several people with whom you could potentially "match".
 
+**example of use :**
+
+![](https://github.com/gbrugere/Learning-Tetris-Using-the-Noisy-Cross-Entropy-Method/blob/main/Tetris.gif)
+
 ## Notes
 
 This project was completed in 2021 when NLP and LLMs were much less popular. One possible improvement would be to use LLMs to match bios in order to enhance the matching process.
